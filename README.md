@@ -1,5 +1,5 @@
-# Employee_AddressOneToOneMapping
-<h1 align="center"> Employee_Address </h1>
+# 🏡Employee Address
+<h1 align="center"> Employee_Address :wave: </h1>
 
 >### Prerequisites
 * ![MySql](https://img.shields.io/badge/DBMS-MYSQL%205.7%20or%20Higher-red)
@@ -22,16 +22,16 @@ In this project, we have four layers-
 * **Model** - This layer consists basically the class level things- the various classes required for the project and these classes consists the attributes to be stored.
 
 >## API Documentation
-The following APIs are provided by the application:
+`The following APIs are provided by the application:`
 
-Employee APIs
+`Employee APIs`
 * GET /employees - get all employees
 * GET /employees/{id} - get an employee by id
 * POST /employees - create a new employee
 * PUT /employees/{id} - update an employee by id
 * DELETE /employees/{id} - delete an employee by id
 
-Address APIs
+`Address APIs`
 * GET /address - get all addresses
 * GET /address/{id} - get an address by id
 * POST /address - create a new address
